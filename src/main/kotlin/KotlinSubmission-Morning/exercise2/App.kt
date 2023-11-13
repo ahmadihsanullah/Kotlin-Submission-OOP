@@ -53,9 +53,5 @@ fun main() {
      *     // Buat di bawah sini
      */
 
-    println(bilangan_genap)
-
     println("It's ${nama_bulan.get("Nov")} now, I was born in ${nama_bulan.get("Feb")}")
-
-
 }

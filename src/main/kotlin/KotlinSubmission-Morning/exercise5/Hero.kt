@@ -47,7 +47,6 @@ class Hero {
       * duduk = +1
 
       Contoh fungsi bisa mengikuti fungsi jalan() diatas.
-
     */
     
 }
